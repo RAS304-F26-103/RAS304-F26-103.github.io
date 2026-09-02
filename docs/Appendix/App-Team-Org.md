@@ -9,6 +9,12 @@ tags:
 
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
 
+Goal 1: Make A Project We are Satified with the Result of.
+Goal 2: To Each individually Contribute a Major part of the Project 
+Goal 3: To Cooperate and work together to incorperate everbodys ideas
+Goal 4: To Learn and Gain Knowledge and Skills from this Project
+Goal 5: To Have a Good time and Do our Best
+
 ## Communication Channels
 
 _**Appendix Table 1**: Team Member Communication Modes_
@@ -16,9 +22,9 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Walker Knaggs |  Text | Email | Discord |
-|Elijah Koiki  |  Text | Discord | Email |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Elijah Koiki  |  Text | Email | Discord |
+|Conner Loos |  Text | Email | Discord |
+|Ayaan Ahmad |  Text | Email | Discord |
 
 ### Main Method for Group Communication
 
@@ -27,7 +33,12 @@ Based on the information provided on in the "Team Member Communication Modes," t
 ## Communication Procedures
 
 1. How will your team communicate?
+
+We will first communicate by text and call before emailling each other our group's information or use discord as a third resort.
+
 2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+
+We will assess responsibillity to everyone present in class for said days of instruction or direction from the insructor, then we will each write down in our group chat what was nessacary so we have record of it
 
 ## Meeting Schedule
 
@@ -35,19 +46,19 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | - | - | M | - | - |
-| 9:00 AM | - | F | - | - | M | - | - |
-| 10:00 AM | W | - | - | - | M | E | W |
-| 11:00 AM | W | E | - | W E | M | E | W |
-| 12:00 PM | W | E | - | W E | W E | E | W |
-| 1:00 PM | W | E | - | W E | W E | E | W |
-| 2:00 PM | W | E | - | W E | W E | - | W |
-| 3:00 PM | W | E | - | W E | W E | - | W |
-| 4:00 PM | - | E | - | W E | W | - | - |
-| 5:00 PM | - | E | - | W E | W | E | - |
-| 6:00 PM | - | - | - | - | W | E | - |
-| 7:00 PM | - | - | - | - | W | E | - |
-| 8:00 PM | - | - | - | - | W | - | - |
+| 8:00 AM | - | C | - | C | M | - | - |
+| 9:00 AM | - | C | - | C | M | - | - |
+| 10:00 AM | W A | - | - | - | M | E | W |
+| 11:00 AM | W A | E A | - | W E | M | E | W |
+| 12:00 PM | W A | E C A| - | W E C A | W E | E | W |
+| 1:00 PM | W A | E C A| - | W E C A | W E | E | W |
+| 2:00 PM | W A | E C A | - | W E C A | W E | - | W |
+| 3:00 PM | W A | E A | - | W E A | W E | - | W |
+| 4:00 PM | - | E | - | W E A | W | - | A |
+| 5:00 PM | - | E C | - | W E A| W | E | A |
+| 6:00 PM | - | C | - | - | W C | E C | A |
+| 7:00 PM | - | C | - | - | W C | E C | - |
+| 8:00 PM | - | - | - | - | W C | - | - |
 | 9:00 PM | - | - | - | - | W | - | - |
 
 _**Table Legend for Appendix Table 2**_
@@ -56,20 +67,20 @@ _**Table Legend for Appendix Table 2**_
 | ----- | :------: |
 | Walker | W |
 | Elijah | E |
-| Zane | Z |
-| Felicity | F |
+| Conner | C |
+| Ayaan | A |
 
 
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-2. We will use a shared calendar for meeting reminders
+  We will use a shared calendar for meeting reminders
 1. How will your team go about changing or adding meeting times?
-2. We will discuss meeting times in the group text.
+  We will discuss meeting times in the group text.
 1. What's the preferred format for meetings (face-to-face or virtually)?
-2. We prefer face to face meetings and will try to meet face to face
+  We prefer face to face meetings and will try to meet face to face
 1. Are there any other procedures that your team feels are necessary?
-
+  Not Currently
 ## Roles & Responsibilities
 
 _**Appendix Table 2**: Project Roles and Duties_
@@ -87,6 +98,7 @@ Need to add content!!
 
 
 ## Signatures
-
-Need to add content!!
-
+Walker Briggs
+Elijah Koiki
+Ayann Ahmad
+Conner Loos
