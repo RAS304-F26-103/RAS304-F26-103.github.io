@@ -15,14 +15,14 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|Walker Knaggs |  Text | Email | Discord |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is Group Text
  
 ## Communication Procedures
 
@@ -37,24 +37,24 @@ _**Appendix Table 2**: Weekly Schedule_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | M | - | M | - | - |
 | 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 10:00 AM | W | - | M | - | M | - | W |
+| 11:00 AM | W | - | M | W | M | - | W |
+| 12:00 PM | W | Z | M | W | W | - | W |
+| 1:00 PM | W | - | M | W | W | - | W |
+| 2:00 PM | W | - | M | W | W | - | W |
+| 3:00 PM | W | - | M | W | W | - | W |
+| 4:00 PM | - | - | M | W | W | - | - |
+| 5:00 PM | - | - | M | W | W | - | - |
+| 6:00 PM | - | - | M | - | W | - | - |
+| 7:00 PM | - | - | M | - | W | - | - |
+| 8:00 PM | - | - | M | - | W | - | - |
+| 9:00 PM | - | - | M | - | W | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
+| Walker | W |
 | Mary | M |
 | Zane | Z |
 | Felicity | F |
