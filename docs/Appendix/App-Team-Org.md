@@ -52,12 +52,12 @@ _**Appendix Table 2**: Weekly Schedule_
 
 _**Table Legend for Appendix Table 2**_
 
-| Name | Abbreviation |
-| ----- | :------: |
-| Walker | W |
-| Elijah | E |
-| Zane | Z |
-| Felicity | F |
+| Name     | Abbreviation |
+|----------|:------------:|
+| Walker   |      W       |
+| Elijah   |      E       |
+| Connor   |      C       |
+| Felicity |      F       |
 
 
 ## Meeting Coordination
