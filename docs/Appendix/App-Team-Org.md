@@ -63,8 +63,11 @@ _**Table Legend for Appendix Table 2**_
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
+2. We will use a shared calendar for meeting reminders
 1. How will your team go about changing or adding meeting times?
+2. We will discuss meeting times in the group text.
 1. What's the preferred format for meetings (face-to-face or virtually)?
+2. We prefer face to face meetings and will try to meet face to face
 1. Are there any other procedures that your team feels are necessary?
 
 ## Roles & Responsibilities
