@@ -16,7 +16,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Walker Knaggs |  Text | Email | Discord |
-|Member 2 |  ? | ? | ? |
+|Elijah Koiki  |  Text | Discord | Email |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 
@@ -35,27 +35,27 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | W | - | M | - | M | - | W |
-| 11:00 AM | W | - | M | W | M | - | W |
-| 12:00 PM | W | Z | M | W | W | - | W |
-| 1:00 PM | W | - | M | W | W | - | W |
-| 2:00 PM | W | - | M | W | W | - | W |
-| 3:00 PM | W | - | M | W | W | - | W |
-| 4:00 PM | - | - | M | W | W | - | - |
-| 5:00 PM | - | - | M | W | W | - | - |
-| 6:00 PM | - | - | M | - | W | - | - |
-| 7:00 PM | - | - | M | - | W | - | - |
-| 8:00 PM | - | - | M | - | W | - | - |
-| 9:00 PM | - | - | M | - | W | - | - |
+| 8:00 AM | - | - | - | - | M | - | - |
+| 9:00 AM | - | F | - | - | M | - | - |
+| 10:00 AM | W | - | - | - | M | E | W |
+| 11:00 AM | W | E | - | W E | M | E | W |
+| 12:00 PM | W | E | - | W E | W E | E | W |
+| 1:00 PM | W | E | - | W E | W E | E | W |
+| 2:00 PM | W | E | - | W E | W E | - | W |
+| 3:00 PM | W | E | - | W E | W E | - | W |
+| 4:00 PM | - | E | - | W E | W | - | - |
+| 5:00 PM | - | E | - | W E | W | E | - |
+| 6:00 PM | - | - | - | - | W | E | - |
+| 7:00 PM | - | - | - | - | W | E | - |
+| 8:00 PM | - | - | - | - | W | - | - |
+| 9:00 PM | - | - | - | - | W | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
 | Walker | W |
-| Mary | M |
+| Elijah | E |
 | Zane | Z |
 | Felicity | F |
 
