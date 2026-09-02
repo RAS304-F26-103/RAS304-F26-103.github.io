@@ -52,41 +52,46 @@ _**Appendix Table 2**: Weekly Schedule_
 
 _**Table Legend for Appendix Table 2**_
 
-| Name     | Abbreviation |
-|----------|:------------:|
-| Walker   |      W       |
-| Elijah   |      E       |
-| Connor   |      C       |
-| Felicity |      F       |
+| Name   | Abbreviation |
+|--------|:------------:|
+| Walker |      W       |
+| Elijah |      E       |
+| Connor |      C       |
+| Ayaan  |      A       |
 
 
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-2. We will use a shared calendar for meeting reminders
+   1. We will use a shared calendar for meeting reminders
 1. How will your team go about changing or adding meeting times?
-2. We will discuss meeting times in the group text.
+   1. We will discuss meeting times in the group text.
 1. What's the preferred format for meetings (face-to-face or virtually)?
-2. We prefer face to face meetings and will try to meet face to face
+   1. We prefer face to face meetings and will try to meet face to face
 1. Are there any other procedures that your team feels are necessary?
+   1. Not at this time-- If scheduling becomes problematic, then we may use an online meeting scheduling system.
 
 ## Roles & Responsibilities
 
 _**Appendix Table 2**: Project Roles and Duties_
 
-| **Role**          | **Duties**                                                                                                                                |
-| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+ **Name**      | **Role**          | **Duties**                                                                                                                                |
+|:--------------|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Elijah Koiki  | Team Coordinator  | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Ayaan Ahmad   | Project Planner   | Assesses the requirements of each assignment before designing an initial assignment schedule                                              |
+| Connor Loos   | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Walker Knaags | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+In the event of a conflict due to a variety of reasons, a standardized approach will be taken;
+1. The perspectives of each belligerent will be heard and acknowledged.
+2. Each perspective will be given its own merit, and any neutral party will be invited for their own perspective of the matter.
+3. The team as a whole will work together in order to find a solution that works best for each and every team member.
+4. Rather than passing blame, each individual will be given the benefit of the doubt.
 
+Through a standardized, proactive process of conflict resolution, our team may better maintain cohesiveness and productivity throughout the duration of the project.
 
 ## Signatures
 
-Need to add content!!
-
+Connor Loos
