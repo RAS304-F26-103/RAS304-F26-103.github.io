@@ -6,15 +6,10 @@ title: Software Proposal
 
 A small 2 Degree of Freedom robotic arm requires motor controllers for precise movement needing encoders, a microcontroller for computaion, and a method of actuating the motors to perform the movements. An additional subsystem can be added for safety to maintain functionality of the motor controller and the safety of the user. The software is the main driving component of this, as allowing the individual microcontrollers to communicate can lead to better results as the system will be able to take into account the angle of the motor and the temperature of the components.
 
-## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![Main Controller Proposal](image/MainController.png)
 
 ![Thermal Subsystem](image/thermalsoftware.png)
 **Figure 2:** Thermal Subsystem Software Proposal
@@ -24,30 +19,9 @@ A small 2 Degree of Freedom robotic arm requires motor controllers for precise m
 **Figure 3:** Motor Controller and Encoder Software Proposal
 
 
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
+[Link to Draw.io](https://app.diagrams.net/#G1Q0b9KVD7Obe9O0Oip9BZI2KxdWa8fXgX#%7B%22pageId%22%3A%22r9VNxDttQobcUXQ038Bd%22%7D)
 
 
 ## References
