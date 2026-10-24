@@ -16,12 +16,12 @@ A small 2 Degree of Freedom robotic arm requires motor controllers for precise m
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![Thermal Subsystem](thermalsoftware.png)
-**Figure 2:** Thermal Subsystem Software
+![Thermal Subsystem](image/thermalsoftware.png)
+**Figure 2:** Thermal Subsystem Software Proposal
 
 
-![Motor Controller and Encoders](MotorControlandEncoder.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
+![Motor Controller and Encoders](image/MotorControlandEncoder.png)
+**Figure 3:** Motor Controller and Encoder Software Proposal
 
 
 ## Results
