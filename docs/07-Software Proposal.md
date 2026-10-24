@@ -10,6 +10,7 @@ A small 2 Degree of Freedom robotic arm requires motor controllers for precise m
 ## Images
 
 ![Main Controller Proposal](image/MainController.png)
+**Figure 1:** Main Controller Software Proposal
 
 ![Thermal Subsystem](image/thermalsoftware.png)
 **Figure 2:** Thermal Subsystem Software Proposal
