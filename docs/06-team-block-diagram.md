@@ -4,15 +4,8 @@ title: Team Block Diagram
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Planning is important for projects and creating a block diagram can help greatly when making schematics and building prototypes. Our block diagram is split into the 4 subsystems and the ways they connect together. The temperature and main control systems connect to all 3 other subsystems as they control the subsystems for the motor encoder and control. The resulting structure is like a web with each of the control subsystems being connected across the web.
 
-## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
 ## Images
 
@@ -20,19 +13,13 @@ _Italic Text_
 **Figure 2:** Here is a picture of an image linked on the internet
 
 
-![imagecaption](image\MotorControlBlockDiagramWalker.png) 
+![Motor Control Block Diagram](image/MotorControlBlockDiagramWalker.png) 
 **Figure 2:** The motor control block diagram
 
 <!-- 
 ![showcase](../image/innovation_showcase_Sp-2025.jpg)  
 **Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math. -->
 
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
 
 ## Conclusions and Future Work
 
