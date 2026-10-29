@@ -26,5 +26,3 @@ A small 2 Degree of Freedom robotic arm requires motor controllers for precise m
 
 
 ## References
-
-

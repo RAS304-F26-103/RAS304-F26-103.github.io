@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
+<font size="8">Motor Controller System<br>
+<font size="5">Team 103<br>
 **Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Professor Thangavelu<br>
   
 
 </center>
@@ -29,4 +29,4 @@ Professor Name<br>
 | Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
 | Name #2                | link |
 | Name #3                | link |
-| Name #4                | link |
+| Walker Knaggs          | [WalkerKnaggs.GitHub](https://wknaggs.github.io/wknaggs_RAS304_F26/) |
