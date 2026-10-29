@@ -26,7 +26,7 @@ The motor controller is made up of 4 subsystems in a web formation with the main
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Ayaan Ahmed            | [JohnDoe.GitHub]() |
+| Ayaan Ahmad            | [AyaanAhmad.GitHub](https://mahmad62asu.github.io/RAS304-Individual-Datasheet/) |
 | Connor Loos            | [ConnorLoos.GitHub](https://cmloos.github.io/cmloos_RAS304_F26/) |
 | Elijah Koiki           | [ElijahKoiki.GitHub](https://kek-koiki.github.io/kkoiki_RAS304_F26/) |
 | Walker Knaggs          | [WalkerKnaggs.GitHub](https://wknaggs.github.io/wknaggs_RAS304_F26/) |
