@@ -38,20 +38,8 @@ _Italic Text_
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+[example link to Draw.io](https://app.diagrams.net/#G1305x2v3SwnpM3bxGt4j9rREFK1im-fgV#%7B%22pageId%22%3A%22oLlu29_sqf4wDlZlH970%22%7D)
 
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
 
 
 ## References
