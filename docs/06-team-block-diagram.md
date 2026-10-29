@@ -24,6 +24,7 @@ Planning is important for projects and creating a block diagram can help greatly
 ## Conclusions and Future Work
 
 ## External Links
+
 [Ayaan Ahmed's Block Diagram]()
 [Connor Loos' Block Diagram](https://cmloos.github.io/cmloos_RAS304_F26/01-Block-Diagram/Block-Diagram/)
 [Elijah Koiki's Block Diagram](https://kek-koiki.github.io/kkoiki_RAS304_F26/01-Block-Diagram/Block-Diagram/)
