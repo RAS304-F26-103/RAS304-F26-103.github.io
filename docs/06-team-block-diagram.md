@@ -20,8 +20,8 @@ _Italic Text_
 **Figure 2:** Here is a picture of an image linked on the internet
 
 
-![dead bug circuit](../image/imageGoal.JPG){style="width:350px;"}  
-**Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
+![motor control](docs\image\Motor Control Block DiagramWalker.png) 
+**Figure 2:** The motor control block diagram
 
 <!-- 
 ![showcase](../image/innovation_showcase_Sp-2025.jpg)  
