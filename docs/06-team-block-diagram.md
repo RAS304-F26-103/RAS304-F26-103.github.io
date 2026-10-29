@@ -9,8 +9,8 @@ Planning is important for projects and creating a block diagram can help greatly
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)  
-**Figure 2:** Here is a picture of an image linked on the internet
+![Main Controller Block Diagram](image/MAIN%20Subsystem.drawio%20(2).png)  
+**Figure 1:** Main controller block diagram
 
 
 ![Motor Control Block Diagram](image/MotorControlBlockDiagramWalker.png) 
@@ -24,8 +24,10 @@ Planning is important for projects and creating a block diagram can help greatly
 ## Conclusions and Future Work
 
 ## External Links
-
-[example link to Draw.io](https://app.diagrams.net/#G1305x2v3SwnpM3bxGt4j9rREFK1im-fgV#%7B%22pageId%22%3A%22oLlu29_sqf4wDlZlH970%22%7D)
+[Ayaan Ahmed's Block Diagram]()
+[Connor Loos' Block Diagram](https://cmloos.github.io/cmloos_RAS304_F26/01-Block-Diagram/Block-Diagram/)
+[Elijah Koiki's Block Diagram](https://kek-koiki.github.io/kkoiki_RAS304_F26/01-Block-Diagram/Block-Diagram/)
+[Walker Knaggs' Block Diagram](https://wknaggs.github.io/wknaggs_RAS304_F26/01-Block-Diagram/Block-Diagram/)
 
 
 
