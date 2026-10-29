@@ -28,6 +28,6 @@ fill this out
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Ayaan Ahmed            | [JohnDoe.GitHub]() |
-| Connor Loos            | [ConnorLoos.GitHub](https://cmloos.github.io/1232329321_RAS304_F26/) |
+| Connor Loos            | [ConnorLoos.GitHub](https://cmloos.github.io/cmloos_RAS304_F26/) |
 | Elijah Koiki           | [ElijahKoiki.GitHub](https://kek-koiki.github.io/kkoiki_RAS304_F26/) |
 | Walker Knaggs          | [WalkerKnaggs.GitHub](https://wknaggs.github.io/wknaggs_RAS304_F26/) |
