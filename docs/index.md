@@ -17,10 +17,9 @@ Professor Thangavelu<br>
 </center>
 
 ## Team Introduction
-fill this out
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+The purpose of this datasheet is to document the work on the design of the motor controller and it's subsystems. This website includes the team organization, benchmarking, requirements, design ideation, block diagram, and the software proposal. 
+
+The motor controller is made up of 4 subsystems in a web formation with the main and temperature subsytems connected to all others with the motor encoder and control subsystems only connected to the control subsystems. The main control performs calculations needed based on the data it recieves from the motor encoder subsystem and sends it out to the motor control system to drive the motors while the temperature subsystem monitors the other subsystems for safety.
 
 
 ## Team Members Datasheet links
