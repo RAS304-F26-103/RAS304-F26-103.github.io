@@ -20,7 +20,7 @@ _Italic Text_
 **Figure 2:** Here is a picture of an image linked on the internet
 
 
-![motor control](image\Motor Control Block DiagramWalker.png) 
+![imagecaption](image\MotorControlBlockDiagramWalker.png) 
 **Figure 2:** The motor control block diagram
 
 <!-- 
