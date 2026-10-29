@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Motor Controller System<br>
 <font size="5">Team 103<br>
-**Submission: month, DD, YYYY**<br>
+**Submission: October, 28, 2026**<br>
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
@@ -17,6 +17,7 @@ Professor Thangavelu<br>
 </center>
 
 ## Team Introduction
+fill this out
 > This will be updated as part of the preparation for the External Review.<br>
 >    * This needs to be updated to reflect a team introduction.<br>
 >    * Content should also help an unfamiliar reader navigate to areas of interest.
